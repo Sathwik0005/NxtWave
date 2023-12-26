@@ -4,7 +4,7 @@
   justify-content: center;
 }
 .app-container {
-  width: 30%;
+  width: 31%;
   min-height: 100vh;
   justify-content: start;
   flex-direction: column;
@@ -20,8 +20,8 @@
   margin-top: 60px;
 }
 .display-timer-container {
-  width: 350px;
-  height: 350px;
+  width: 360px;
+  height: 360px;
   background-size: cover;
   background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
   background-position: center;
